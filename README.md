@@ -53,9 +53,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KhushiY215/KhushiY215/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
----
+
 
 
