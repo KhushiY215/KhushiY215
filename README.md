@@ -21,10 +21,6 @@
 ### 🕸️ My Contribution Radar
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiY215&theme=github_dark" height="150" alt="productive time"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiY215&theme=github_dark" height="150" alt="repos per language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiY215&theme=github_dark" height="150" alt="most commit language"/>
 </p>
