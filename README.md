@@ -34,10 +34,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiY215&theme=github_dark" height="150" alt="productive time chart"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiY215&theme=react-dark&hide_border=true&bg_color=0D1117&line=09e611&point=FFFFFF" alt="GitHub Activity Graph" />
 </p>
-
+-->
 ---
 
 ### 🔗 Connect with Me
