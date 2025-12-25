@@ -12,7 +12,8 @@
 
 ### 💻 My Tech Stack & Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KhushiY215&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KhushiY215&layout=compact&langs_count=5&theme=dracula)
+
 
 </div>
 
