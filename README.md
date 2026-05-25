@@ -23,13 +23,13 @@ Personality type - *trying-not-to-be-vibe-coder*
 Blood Group      - **coffee positive ☕**.  
 A little too much into tech. A try-hard maybe.
 
-Love to humble myself by putting myself in a spot — multi-hackathon participator and sometimes finalist 🫠 , have a collection of certificates saying *"I tried"*... still trying for an *"I won!"*.
+Love to humble myself by putting myself in a spot - multi-hackathon participator and sometimes finalist 🫠 , have a collection of certificates saying *"I tried"*... still trying for an *"I won!"*.
 
 My own biggest critic because why not?
 
-Perfectly a poet and a writer — published exclusively in my personal diary with the same blue pen I've been using for 3 years ✍️
+Perfectly a poet and a writer, published exclusively in my personal diary with the same blue pen I've been using for 3 years ✍️
 
-Also into community service as a social volunteer — one of the very few places where I actually show up regularly.
+Also into community service as a social volunteer - one of the very few places where I actually show up regularly.
 
 ---
 
