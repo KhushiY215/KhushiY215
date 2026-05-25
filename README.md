@@ -4,7 +4,9 @@
 
 <div align="center">
 
-# Welcome to My Profile! 👀
+<h1 align="center">
+  <span style="color:#00FF00;">Welcome to My Profile! 👀</span>
+</h1>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Khushi+:)&font=Fira%20Code&center=true&width=440&height=45&color=F00E0E&vCenter=true&pause=10&size=32" />
 </div>
