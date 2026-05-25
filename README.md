@@ -66,6 +66,7 @@ cause let me stalk you too 👁️
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiY215&theme=react-dark&hide_border=true&bg_color=0D1117&line=09e611&point=FFFFFF" alt="GitHub Activity Graph" />
 </p>
 -->
+
 ---
 
 ### 🔗 Connect with Me
@@ -87,7 +88,7 @@ cause let me stalk you too 👁️
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
----
 
+---
 
 
