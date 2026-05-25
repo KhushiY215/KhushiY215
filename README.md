@@ -12,7 +12,7 @@
 # Welcome to My Profile! 👀
 
 Let's dive deeper into knowing me.  
-well... I still am trying.
+Well... I still am trying.
 
 </div>
 
