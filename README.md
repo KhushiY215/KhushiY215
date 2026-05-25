@@ -7,8 +7,57 @@
 </div>
 
 ---
+<div align="left">
+  <b><pwn>🔵 🟣 ⚪</pwn></b>
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Khushi+:)&font=Fira%20Code&center=true&width=440&height=45&color=7F5AF0&vCenter=true&pause=1000&size=22" />
+</div>
 
+<br>
+
+<p align="center">
+  Welcome to my profile! Let's dive deeper into knowing me. Well, I still am trying.
+</p>
+
+<p align="center">
+  My blood group is coffee positive. I'm a trying-not-to-be-vibe-coder person.
+</p>
+
+<p align="center">
+  A little too much into tech. A try-hard maybe.
+</p>
+
+<p align="center">
+  I love humbling myself by putting myself on the spot — multi-hackathon participator and finalist somehow, with a collection of certificates saying “I tried.” Still trying for an “I won!”
+</p>
+
+<p align="center">
+  My own biggest critic, because why not?
+</p>
+
+<p align="center">
+  Perfectly a poet and a writer, published only in my personal diary with the same blue pen I've been using for 3 years.
+</p>
+
+<p align="center">
+  Into community service as a social volunteer — one place where I show up daily.
+</p>
+
+<br>
+
+<p align="center">
+  Jokes apart! I'm currently exploring the research domain in the field of AI/ML and DL, alongside building AI agents to help make daily tasks easier.
+</p>
+
+<p align="center">
+  Would love to connect, cause let me stalk you too...
+</p>
+
+<p align="center">
+  I'm obsessed with the idea of melting ice cream on a park bench in the scorching heat.
+</p>
 
 ### 🕸️ My Contribution Radar
 
