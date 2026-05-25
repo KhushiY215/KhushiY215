@@ -8,49 +8,20 @@
 
 ---
 
-<div align="left">
-<b><pwn>🔴 🟡 🟢</pwn></b>
-</div>
+
+<div align="center"><code>🩸 Blood Group: Coffee Positive &nbsp;|&nbsp; ⚡ Status: Still Trying</code></div>
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Khushi+:)&font=Fira%20Code&center=true&width=440&height=45&color=00C9A7&vCenter=true&pause=10&size=22" />
-</div>
-
-<div align="center">
-
-```
-Blood Group: Coffee Positive  |  Status: Still Trying
-```
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+trying-not-to-be+vibe+coder+person.+A+little+too+much+into+tech.;A+try-hard,+maybe.+Multi-hackathon+participator+and+finalist+somehow.;Have+a+collection+of+certificates+saying+I+tried.;Still+trying+for+an+I+Won!+My+own+biggest+critic,+because+why+not?;Poet+%26+writer+%E2%80%94+published+only+in+my+personal+diary,;with+the+same+blue+pen+I've+used+for+3+years.;Into+community+service+as+a+social+volunteer.+One+place+where+I+show+up+daily.&font=Nunito&center=true&width=750&height=50&color=c9d1d9&vCenter=true&pause=2500&size=15&duration=1" />
 </div>
 
 ---
 
-### `whoami`
+🔬 Currently exploring the research domain in the field of **AI/ML** and **Deep Learning**, alongside building some **AI Agents** to help make daily tasks easier.
 
-A trying-not-to-be vibe coder person. A little too much into tech. A try-hard, maybe.
-
-I love to humble myself by putting myself in a spot — multi-hackathon participator and finalist somehow. Have a collection of certificates saying I tried. Still trying for an **I Won!** My own biggest critic, because why not?
-
-Perfectly a poet and a writer — published only in my personal diary, with the same blue pen I have been using for 3 years. Into community service as a social volunteer. One place where I show up daily.
-
----
-
-### `./current_focus`
-
-Currently exploring the research domain in the field of **AI/ML** and **Deep Learning**, alongside building some **AI Agents** to help make daily tasks easier.
-
----
-
-### `./fun_fact`
-
-I'm obsessed with the idea of a melting ice cream on a park bench in the scorching heat.
-
----
-
-### `./connect`
-
-Would love to connect — let me stalk you too.
+🍦 I'm obsessed with the idea of a melting ice cream on a park bench in the scorching heat. Would love to connect — let me stalk you too.
 
 ---
 
@@ -59,7 +30,7 @@ Would love to connect — let me stalk you too.
 </div>
 
 
----
+
 
 ### 🕸️ My Contribution Radar
 
