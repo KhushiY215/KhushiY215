@@ -3,21 +3,22 @@
 </div>
 
 <div align="center">
+
+# Welcome to My Profile! 👀
+
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Khushi+:)&font=Fira%20Code&center=true&width=440&height=45&color=F00E0E&vCenter=true&pause=10&size=32" />
 </div>
 
 ---
 <div align="center">
 
-# Welcome to My Profile! 👀
 
 Let's dive deeper into knowing me.  
-Well... I still am trying.
-
+Well... I still am trying to so... Hello!👋
 </div>
 
-My blood group is **coffee positive ☕**.  
-I am a *trying-not-to-be-vibe-coder* person.  
+Personality type - *trying-not-to-be-vibe-coder* 
+Blood Group      - **coffee positive ☕**.  
 A little too much into tech. A try-hard maybe.
 
 Love to humble myself by putting myself in a spot — multi-hackathon participator and sometimes finalist 🫠 , have a collection of certificates saying *"I tried"*... still trying for an *"I won!"*.
