@@ -19,7 +19,7 @@ Let's dive deeper into knowing me.
 Well... I still am trying to so... Hello!👋
 </div>
 
-Personality type - *trying-not-to-be-vibe-coder* 
+Personality type - *trying-not-to-be-vibe-coder*   
 Blood Group      - **coffee positive ☕**.  
 A little too much into tech. A try-hard maybe.
 
