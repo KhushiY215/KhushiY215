@@ -7,30 +7,40 @@
 </div>
 
 ---
-
-
-<div align="center"><code>🩸 Blood Group: Coffee Positive &nbsp;|&nbsp; ⚡ Status: Still Trying</code></div>
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+trying-not-to-be+vibe+coder+person.+A+little+too+much+into+tech.;A+try-hard,+maybe.+Multi-hackathon+participator+and+finalist+somehow.;Have+a+collection+of+certificates+saying+I+tried.;Still+trying+for+an+I+Won!+My+own+biggest+critic,+because+why+not?;Poet+%26+writer+%E2%80%94+published+only+in+my+personal+diary,;with+the+same+blue+pen+I've+used+for+3+years.;Into+community+service+as+a+social+volunteer.+One+place+where+I+show+up+daily.&font=Nunito&center=true&width=750&height=50&color=c9d1d9&vCenter=true&pause=2500&size=15&duration=1" />
+# Welcome to My Profile! 👀
+
+Let's dive deeper into knowing me.  
+well... I still am trying.
+
 </div>
 
+My blood group is **coffee positive ☕**.  
+I am a *trying-not-to-be-vibe-coder* person.  
+A little too much into tech. A try-hard maybe.
+
+Love to humble myself by putting myself in a spot — multi-hackathon participator and sometimes finalist 🫠 , have a collection of certificates saying *"I tried"*... still trying for an *"I won!"*.
+
+My own biggest critic because why not?
+
+Perfectly a poet and a writer — published exclusively in my personal diary with the same blue pen I've been using for 3 years ✍️
+
+Also into community service as a social volunteer — one of the very few places where I actually show up regularly.
+
 ---
 
-🔬 Currently exploring the research domain in the field of **AI/ML** and **Deep Learning**, alongside building some **AI Agents** to help make daily tasks easier.
+## jokes apart 🚀
 
-🍦 I'm obsessed with the idea of a melting ice cream on a park bench in the scorching heat. Would love to connect — let me stalk you too.
+I'm currently exploring the research domain in the field of **AI/ML & Deep Learning**, alongside building some AI Agents to make daily tasks easier.
+
+Would love to connect...  
+cause let me stalk you too 👁️
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+Trying.+Never+Stopping.&font=Fira%20Code&center=true&width=440&height=30&color=00C9A7&vCenter=true&pause=800&size=16" />
-</div>
+> I'm obsessed with the idea of a melting ice cream in the scorching heat 🍦☀️
 
-
-
+---
 
 ### 🕸️ My Contribution Radar
 
