@@ -8,6 +8,7 @@
 
 ---
 <div align="center">
+
 # Welcome to My Profile! 👀
 
 Let's dive deeper into knowing me.  
